@@ -1,5 +1,6 @@
 {
     "name": "i2c-speicherkarte-html",
+    "version": "0.0.1",
     "dependencies": {
         "core": "*",
         "log-qwiicopenlog": "github:calliope-net/log-qwiicopenlog#v1.0.4",
